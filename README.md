@@ -1,5 +1,5 @@
 iterami/Chromium-iterami-Theme
 ------------------------------
 
-* Contributing: https://github.com/iterami/Docs.htm/blob/gh-pages/CONTRIBUTING.md
+* Contributing: https://iterami.com/Docs.htm/standards/contributing.htm
 * Docs: https://iterami.com/Docs.htm/repositories/chromium-iterami-theme.htm
